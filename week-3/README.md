@@ -1,4 +1,4 @@
-# Churn 
+# Churn Predictor (Logistic Regression)
 
 ## Feature Importance
 ### Difference
