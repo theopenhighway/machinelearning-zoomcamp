@@ -1,5 +1,12 @@
 # Introduction to Machine Learning
 
+## Topics
+[Introduction to Machine Learning](#Introduction-to-Machine-Learning)
+
+[Model Training](#Model-Training)
+
+[Predictions](#Predictions)
+
 ## Introduction to Machine Learning
 
 DATA -> ML -> PATTERNS
